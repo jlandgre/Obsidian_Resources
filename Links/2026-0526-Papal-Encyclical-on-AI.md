@@ -10,7 +10,6 @@ updated: 05-29-2026
 author: JDL
 ---
 
-
 http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
 
 
