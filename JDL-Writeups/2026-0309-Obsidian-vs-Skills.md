@@ -13,7 +13,9 @@ author: JDL
 ## AI Chat re VBA ExcelSteps project
 
 **JDL**
-I am writing up a system for making code changes where The workspace landscape for the project and change descriptions is comprised of a `ProjectName` folder and an Obsidian `Graph_ProjectName` folder containing notes with context. Is there anything special about storing skills \*.md files in the .Github/Skills folder, or could they just be Obsidian notes that I ask AI to use as a "skill" for doing a task?
+I am writing up a system for making code changes where the workspace landscape for the project and change descriptions is comprised of a `ProjectName` folder and an Obsidian `Graph_ProjectName` folder containing notes with context. Is there anything special about storing skills \*.md files in the .Github/Skills folder, or could they just be Obsidian notes that I ask AI to use as a "skill" for doing a task? 
+
+> *(Note 6/1: I now know better. Skills contain YAML frontmatter that stays always loaded as context for the model. Notes will be read when I instruct, so they are still useful as background)*
 
 **AI**
 The [skills](vscode-file://vscode-app/c:/Users/j.d.landgrebe/AppData/Local/Programs/Microsoft%20VS%20Code/61b3d0ab13/resources/app/out/vs/code/electron-browser/workbench/workbench.html) folder has special functionality for automatic discovery and invocation by GitHub Copilot, but Obsidian notes can work as manual reference documentation. Here are the key differences:

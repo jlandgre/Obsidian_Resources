@@ -1,3 +1,14 @@
+---
+type: jdl_writeup
+description: For Box Sync, ensure that there are no files with hidden status; Box Sync file storage location in Mac OSX
+tags:
+  - cloud
+  - box
+  - osx
+created: 05-29-2026
+updated: 05-29-2026
+author: JDL
+---
 5/4/26 Install Box Drive on new Macbook Pro
 
 ## Ensure All Needed Files Sync
@@ -33,7 +44,3 @@ Typical Windows path to folder for VS Code Workspace inclusion of
 
 	`\\Mac\Home\Library\CloudStorage\Box-Box\subfolder_path
 
-
-`Mobile Documents/iCloud~md~obsidian/Documents/JD_Obsidian/03_Projects/ExcelSteps_Graph"`
-
-        }
