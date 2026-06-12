@@ -15,6 +15,9 @@ author: JDL
 
 Demo using learning to solve Rubik‘s cube as example
 ![[attachments/pocock-teach-skill1.png|300]]
+<img src="../attachments/pocock-teach-skill1.png" width="300">
+
+
 
 Skill (e.g. Claude *.md file) to "help anyone learn anything"
 
