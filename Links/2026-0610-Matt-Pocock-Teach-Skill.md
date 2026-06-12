@@ -6,6 +6,7 @@ tags:
   - context
   - claude
   - rubikscube
+  - skills
 created: 06-10-2026
 updated: 06-10-2026
 author: JDL
@@ -18,7 +19,6 @@ Demo using learning to solve Rubik‘s cube as example
 <img src="../attachments/pocock-teach-skill1.png" width="300">
 
 
-
 Skill (e.g. Claude *.md file) to "help anyone learn anything"
 
 * Stateless vs Stateful skills (puts a name to an inherently-obvious concept)
@@ -26,6 +26,8 @@ Skill (e.g. Claude *.md file) to "help anyone learn anything"
 
 
 <img src="../attachments/pocock-teach-skill2.png" width="300">
+
+
 * His use of Glossary as a place to store nomenclature
 * Teaches while creating aids for teaching others
 * "Zone of proximal development"
