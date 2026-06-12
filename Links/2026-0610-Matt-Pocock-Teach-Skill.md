@@ -14,7 +14,6 @@ author: JDL
 4K likes · 104 replies](https://x.com/mattpocockuk/status/2064023481398824993?s=12&t=14rOrQ32ciPZKfXD6uckPw)
 
 Demo using learning to solve Rubik‘s cube as example
-![[attachments/pocock-teach-skill1.png|300]]
 <img src="../attachments/pocock-teach-skill1.png" width="300">
 
 
