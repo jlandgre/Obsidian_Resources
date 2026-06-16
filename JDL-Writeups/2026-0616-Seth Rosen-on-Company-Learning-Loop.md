@@ -31,13 +31,12 @@ Step 3: Set up a wiki-like "index" that at least links to each summary but also 
 My Chat thread on software specifics:  
 * https://chatgpt.com/share/6a314bc5-2db0-83ea-a309-845a3f3cc66e
 
-Other links<br>
+Other links. 
 * [Glean Software layer sits atop other knowledge sources](https://www.glean.com/blog/85-new-actions-in-agents?utm_source=chatgpt.com)
 * [Confluence wiki software by Atlassian](https://www.atlassian.com/software/confluence)
 
 Confluence has a free tier
 
-Glean (from chat)
-[Deployment options](https://docs.glean.com/get-started/build/about-deployment)
+(from chat with them) [Glean Deployment options](https://docs.glean.com/get-started/build/about-deployment)
 
 
