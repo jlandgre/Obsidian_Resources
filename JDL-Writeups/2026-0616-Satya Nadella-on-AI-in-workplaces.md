@@ -14,9 +14,9 @@ author: JDL
 
 (https://x.com/satyanadella/status/2066182223213293753?s=12)
 
->This transition is different than any previous platform shift. In the past, we used digital systems to enhance human capital. This is the first time we can create a real cognitive loop between people and digital systems. That is a mind-bender, because it changes how we even conceptualize work inside an enterprise.
->
-What is at stake is not some digital tool or system and its use, but how organizations continue to learn, build IP, differentiate, and thrive in a world where AI models can continuously absorb the expertise of humans and organizations and commoditize it.
+**Satya**
+
+>This transition is different than any previous platform shift. In the past, we used digital systems to enhance human capital. This is the first time we can create a real cognitive loop between people and digital systems. That is a mind-bender, because it changes how we even conceptualize work inside an enterprise. What is at stake is not some digital tool or system and its use, but how organizations continue to learn, build IP, differentiate, and thrive in a world where AI models can continuously absorb the expertise of humans and organizations and commoditize it.
 
 
 **JDL comments**
