@@ -23,15 +23,17 @@ author: JDL
 
 **JDL Comments**
 
-Implementing a "company brain" is daunting --you could, at a high price, have McKinsey or Accenture come in and interview everyone to document everything.  Besides the astronomical cost of that, the problem with it is that they are not insiders on your culture and practices. They simply have a job to do for hire and will leave afterwards without creating descriptions that have life.
+Implementing a "company brain" is daunting --you could, at a high price, have McKinsey or Accenture come in and interview everyone to document everything.  Besides the astronomical cost of that, the problem with it is that they are not insiders on your culture and practices. They simply have a job to do for hire and will leave afterwards without creating descriptions that have life.  For smaller companies, such an approach is simply infeasible financially.
 
-The best approaches are those that are easily worked into your existing processes --You have people writing research summaries? Step 1: Set up a static folder structure and insist that you will only review the posted summary --not the email attached version. Step 2: Set up consistent "frontmatter"** for the summaries that makes them open to inspection by AI
-Step 3: Set up a wiki-like "index" that at least links to each summary but also which makes it easy for others to link to the work and write about its implications and its implementation on specific projects
+The best approaches are those that are easily worked into your existing processes and build things from the ground up. For example, you have people writing research summaries? Step 1: Set up a static cloud folder structure and insist that, as a manager, you will only review the posted summary --not the email attached version. Step 2: Set up consistent "frontmatter"** for the summaries that makes them open to inspection and search by AI. Step 3: Set up a wiki-like "index" that at least links to each summary but also which makes it easy for others to link to the work and write about its implications and its implementation on specific projects.  Step 4: Add agents/an AI layer (like Glean example below) to build on this and enable broad search, AI summarization and AI-driven tasks.
 
 **A note about "frontmatter"**  
-** The "YAML" formatted section at the header of this note is my "frontmatter" to create concise, AI readable summary based on keywords. YAML uses the format of "keyword:text". This type of indexing makes it possible to ask AI to review note content without bogging it down with the entire text of every note. It also makes searching easy: "Give me a list of notes tagged as "AI". Show me notes written in June 2026.
+Overloading AI context is a problem that degrades its performance. The ["YAML"](https://en.wikipedia.org/wiki/YAML) formatted section at the header of this note is my "frontmatter" to create a concise, AI readable summary based on keywords. This eliminates the need for AI to pre-emptively read an entire document before discerning its relevance.  I author in Obsidian, which has a shortcut to insert this frontmatter with a single keystroke making it natural and quick to populate it for every note I author.
 
-My Chat thread on software specifics:  
+Both [Obsidian](https://obsidian.md) that I authored this in and Github used for sharing, render the YAML frontmatter in an readable way. Although its good to standardize, YAML uses the format of "keyword:text" where you are free to make up your own keywords based on the situation. This type of indexing enables great searching: "Give me a list of notes tagged as "enterprise" and "ai". "Show me notes created in June 2026." Etc.
+
+**Additional Links**  
+My Chat thread on software specifics (Confluence, Glean etc.):  
 * https://chatgpt.com/share/6a314bc5-2db0-83ea-a309-845a3f3cc66e
 
 Other links. 
