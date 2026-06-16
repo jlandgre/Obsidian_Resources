@@ -18,7 +18,9 @@ author: JDL
 >
 What is at stake is not some digital tool or system and its use, but how organizations continue to learn, build IP, differentiate, and thrive in a world where AI models can continuously absorb the expertise of humans and organizations and commoditize it.
 
-JDL comments
+
+**JDL comments**
+
 Maybe not first time, but the first time that it can be a closed loop. I remember my experiment with Atlassian wiki in my organization. We created a framework with templates for what the organization does
 
 This is a good way to brainstorm a matching server (Sharepoint etc.) folder structure and wiki-like context/knowledge map
@@ -34,4 +36,4 @@ This high-level structure creates a good framework for the details such as "Peop
 
 Wiki software made it (relatively) easy to hyperlink to other wiki pages and to documents such as corporate learning and technical reports. This was a highly viable concept for assembling "context" (aka knowledge) about how our organization did things ("This is how we do things around here") and context about current project and technical activities and results
 
-In spite of strong management support, the challenge was in getting the people with the context to either store it in the wiki or to link to it if elsewhere (e.g. study folders on a shared drive)
+In spite of strong management support, the challenge was in getting the people with the context to either store it in the wiki or to link to it if elsewhere (e.g. study folders on a shared drive). The answer is to make adding to the context a natural part of the day-to-day work process --not a special "going on an adventure" activity that is new and separate from "working".

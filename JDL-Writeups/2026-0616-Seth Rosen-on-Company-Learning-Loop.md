@@ -34,3 +34,7 @@ https://chatgpt.com/share/6a314bc5-2db0-83ea-a309-845a3f3cc66e
 
 Confluence has a free tier
 
+Glean (from chat)
+[Deployment options](https://docs.glean.com/get-started/build/about-deployment)
+
+
