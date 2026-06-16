@@ -6,6 +6,7 @@ tags:
   - corporate
   - enterprise
   - context
+  - microsoft
 created: 06-16-2026
 updated: 06-16-2026
 author: JDL
