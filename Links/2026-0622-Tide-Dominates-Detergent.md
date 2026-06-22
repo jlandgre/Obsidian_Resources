@@ -1,0 +1,2 @@
+Tide Already Dominates Detergent. Why Is P&G Pushing a New Version?
+[Tide Already Dominates Detergent. Why Is P&G Pushing a New Version?](https://www.wsj.com/business/tide-laundry-soap-procter-gamble-2938e8b6?st=1YNbhg)
